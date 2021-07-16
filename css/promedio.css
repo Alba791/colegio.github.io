@@ -1,0 +1,14 @@
+container{
+    padding: 2em;
+    box-shadow: 0 0 10px black;
+}
+.Bloque1{
+    background-color: gray;
+    margin: 15px;
+    height: 200px;
+    position: relative;
+    font-size: 3cm;
+    text-align: center;
+    width: 1320px;
+    font-size: 30px;}
+
